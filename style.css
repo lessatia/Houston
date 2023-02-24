@@ -4,7 +4,6 @@ padding:0;}
    width:70%;
 margin:auto;
 font-size:1.3em;
-  margin-top:60px;
 background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5) ), url(images/head.png);
 background-attachment:fixed;
 background-repeat: no-repeat;
@@ -12,6 +11,7 @@ background-size: cover;
  }
 
 .head{ width:100%;  
+ margin-top:60px;
    ;}
    .resume{margin:20px}
 main{padding: 60px 20px;
